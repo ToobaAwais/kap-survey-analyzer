@@ -4,6 +4,8 @@ A web app that takes a raw **Knowledge, Attitude and Practice (KAP)** questionna
 
 Built by **Tooba Mujtaba** · NovaGen Bioinformatics
 
+**Live demo:** [kap-analyzer.streamlit.app](https://kap-analyzer.streamlit.app)
+
 ## What it does
 
 | Step | Output |
