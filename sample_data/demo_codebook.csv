@@ -1,0 +1,25 @@
+Item,Domain,Statement,Response / correct answer
+K1,Knowledge,Antibiotics are not effective against viral infections.,True
+K2,Knowledge,Antibiotic resistance occurs only in people who take antibiotics.,False
+K3,Knowledge,Incomplete antibiotic courses can promote resistance.,True
+K4,Knowledge,Resistant bacteria can spread between patients.,True
+K5,Knowledge,Broad-spectrum antibiotics are always preferred for empirical therapy.,False
+K6,Knowledge,Hand hygiene reduces the spread of resistant organisms.,True
+K7,Knowledge,Antibiotics speed recovery from the common cold.,False
+K8,Knowledge,Culture and sensitivity testing guides targeted therapy.,True
+K9,Knowledge,Antibiotic use in livestock contributes to resistance.,True
+K10,Knowledge,New antibiotics will soon solve the resistance problem.,False
+A1,Attitude,Antimicrobial resistance is a serious problem in my facility.,Likert (agree)
+A2,Attitude,I should follow local antibiotic guidelines.,Likert (agree)
+A3,Attitude,Patients' demands justify prescribing antibiotics. [reverse],Likert (agree)
+A4,Attitude,Antimicrobial stewardship training should be mandatory.,Likert (agree)
+A5,Attitude,My prescribing affects resistance in the community.,Likert (agree)
+A6,Attitude,Infection control is every staff member's responsibility.,Likert (agree)
+A7,Attitude,Resistance is mainly a problem for other countries. [reverse],Likert (agree)
+A8,Attitude,I would welcome audit and feedback on antibiotic use.,Likert (agree)
+P1,Practice,I check culture results before continuing antibiotics.,Frequency
+P2,Practice,I educate patients about completing the course.,Frequency
+P3,Practice,I consult local guidelines before prescribing.,Frequency
+P4,Practice,I perform hand hygiene between patients.,Frequency
+P5,Practice,I document the indication for antibiotics.,Frequency
+P6,Practice,I review antibiotic therapy at 48–72 hours.,Frequency
